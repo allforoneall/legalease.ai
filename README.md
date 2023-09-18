@@ -25,4 +25,6 @@ Type your github username in place of your_username (This won't work if you have
   cd legalease_app
   npm install
   npm run dev
+  pip install easyocr
 ```
+
